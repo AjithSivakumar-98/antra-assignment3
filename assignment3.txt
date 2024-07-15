@@ -1,0 +1,12 @@
+1. Explain what is prototype and what is prototype chain in your own words
+
+	Prototype in JS is an object, and every object has prototype in its core. If any
+	object's functions and variables are attached to object then it can also be derived into
+	the prototype as well. Like class inheritance objects can be inheritance from one to
+	another object using prototype.
+
+
+	Prototype chaining is like inheritance process of passing functions and variables from
+	parent to child, like wise chaining enables object prototype to inherit from parent 
+	object.
+	
